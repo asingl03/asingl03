@@ -1,4 +1,4 @@
-### Hi there 👋 My name is Arshia
+### Hi there 👋 My name is Arshia Singla. 
 
 <!--
 **asingl03/asingl03** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
